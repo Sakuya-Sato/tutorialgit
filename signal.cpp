@@ -2,6 +2,7 @@
 
 #include <iostream>
 #include <thread>
+#include <string>
 
 namespace signal {
 

@@ -10,7 +10,7 @@ enum class Color {
 
 class Signal {
 private:
-	int num = 5;
+	double num = 5.0;
 	Color currentColor;
 	bool isLooping = false;
 	void setColor(bool canAcross);

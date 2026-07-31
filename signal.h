@@ -1,6 +1,6 @@
 ﻿#pragma once
 
-namespace signal {
+namespace Signal {
 
 enum class Color {
 	kRed = 0,
